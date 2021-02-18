@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! We are the Ftcamb robotics team
+## We compete in the FIRST Tech Challenge tournament
+## Our mission is to use robotics and technology as a means to solve problems!
 
-<!--
-**FtcambAl/FtcambAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FTcamb's GitHub stats](https://github-readme-stats.vercel.app/api?username=FtcambAl&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> <b> Things to know obout me! </b> <i>(click to expand!)</i> </summary>
+    <br> </br>
+    <p> 
+      - The FTC tournament proposes a problem each season, in this 2021 season, we competitors, we aim to solve problems arising from physical activities.
+      <br> </br>
+      - Our job is not only to build and program robots, we also have a duty to act as a company, dealing with business planning and spreading the STEM methodology to the whole society!    
+      <br> </br>
+      - Our intention, in addition to participating in the tournament, is to be able to contribute to improving the reality of life for many people through the work we do due to technology, in addition to learning and sharing a lot of knowledge!
+    <p>
+</details>
